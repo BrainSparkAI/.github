@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to BrainSpark AI
+
+The purpose of this organization is to find innovative ways to fuse the fields of AI, electronics, software programming, embedded systems, high performance computing, robotics, and data science into projects that help mankind.👋
 
 <!--
 
